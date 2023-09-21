@@ -7,6 +7,18 @@ body {
   align-items: center; /* Centra verticalmente los elementos en el cuerpo */
   justify-content: center; /* Centra horizontalmente los elementos en el cuerpo */
 }
+
+
+.palito{
+	position: absolute;
+    background: green;
+    width: 17px;
+    height: 252px;
+    margin-top: 174px;
+	border-radius: 380%;
+	
+}
+
 .flower {
   height: 200px;
   width: 200px;
